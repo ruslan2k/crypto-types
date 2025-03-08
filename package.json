@@ -1,0 +1,25 @@
+{
+  "name": "crypto-types",
+  "version": "1.0.0",
+  "description": "Сrypto Types  and Variables",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruslan2k/crypto-types.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ruslan2k/crypto-types/issues"
+  },
+  "homepage": "https://github.com/ruslan2k/crypto-types#readme",
+  "devDependencies": {
+    "typescript": "^5.8.2"
+  }
+}
