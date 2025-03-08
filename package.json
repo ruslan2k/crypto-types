@@ -1,5 +1,5 @@
 {
-  "name": "crypto-types",
+  "name": "test-crypto-types",
   "version": "1.0.0",
   "description": "Сrypto Types  and Variables",
   "main": "dist/index.js",
