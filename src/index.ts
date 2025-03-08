@@ -1,2 +1,2 @@
-export { INetwork, ECurrency } from './types'
+export { INetwork, ECurrency, ETestNet } from './types'
 export { TESTNETS } from './constants'

@@ -1,7 +1,7 @@
 {
   "name": "test-crypto-types",
-  "version": "1.0.1",
-  "description": "Сrypto Types  and Variables",
+  "version": "1.0.2",
+  "description": "Сrypto Types and Variables",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
