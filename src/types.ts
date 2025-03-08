@@ -1,6 +1,7 @@
 export interface INetwork {
   description: string
   explorer: string
+  netType: ENetworkType
 }
 
 export enum ENetworkType {
