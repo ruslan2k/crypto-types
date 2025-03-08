@@ -1,14 +1,10 @@
-export enum ENetwork {
-  BSC_TESTNET = 'BSC_TESTNET',
-  SEPOLIA_TESTNET = 'SEPOLIA_TESTNET'
-}
-
 export interface INetwork {
   description: string
   explorer: string
 }
 
 export enum ECurrency {
+  ETH = 'ETH',
   USDT = 'USDT',
   USDC = 'USDC',
 }
@@ -16,7 +12,8 @@ export enum ECurrency {
 // testnet
 export enum ETestNet {
   BSC_TESTNET = 'BSC_TESTNET',
-  SEPOLIA_TESTNET = 'SEPOLIA_TESTNET',
+  ETH_SEPOLIA_TESTNET = 'ETH_SEPOLIA_TESTNET',
+  TRON_SHASTA_TESTNET = "TRON_SHASTA_TESTNET",
 }
 
 // mainnet
