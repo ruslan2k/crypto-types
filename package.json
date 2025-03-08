@@ -1,6 +1,6 @@
 {
   "name": "test-crypto-types",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Сrypto Types and Variables",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -13,7 +13,6 @@
     "url": "git+https://github.com/ruslan2k/crypto-types.git"
   },
   "keywords": [],
-  "author": "",
   "license": "MIT",
   "type": "commonjs",
   "bugs": {
