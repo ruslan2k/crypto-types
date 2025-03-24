@@ -13,6 +13,8 @@ export enum ECurrency {
   ETH = 'ETH',
   USDT = 'USDT',
   USDC = 'USDC',
+  // BUSD = 'BUSD',
+  // DAI = 'DAI',
 }
 
 // testnet
@@ -26,5 +28,6 @@ export enum ETestNet {
 export enum EMainNet {
   BSC_MAINNET = 'BSC_MAINNET',
   ETH_MAINNET = 'ETH_MAINNET',
+  TRON_MAINNET = 'TRON_MAINNET',
 }
 
